@@ -2,7 +2,34 @@ fileFormatVersion: 2
 guid: 47da3cf90e5c40d46808c74b7e6bf779
 ModelImporter:
   serializedVersion: 19301
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: -623603649343465320
+    second: Scene
+  - first:
+      74: 4862776276290162466
+    second: SmallArmature|IdleMech.001
+  - first:
+      74: 2017618525188950158
+    second: SmallArmature|IdleMech.002
+  - first:
+      74: 6822821874972018895
+    second: SmallArmature|IdleMech.003
+  - first:
+      74: 6231081498058956409
+    second: SmallArmature|IdleMech.004
+  - first:
+      74: 680949266795712380
+    second: SmallArmature|IdleMech.005
+  - first:
+      74: 4597670234100128161
+    second: SmallArmature|IdleMechSmall
+  - first:
+      74: 1513854820845322734
+    second: SmallArmature|MechArmatureAction
+  - first:
+      74: -1515016156093746886
+    second: SmallArmature|RunMechSmall
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -35,7 +62,65 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SmallArmature|IdleMechSmall
+      takeName: SmallArmature|IdleMechSmall
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SmallArmature|RunMechSmall
+      takeName: SmallArmature|RunMechSmall
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 0
   meshes:
     lODScreenPercentages: []

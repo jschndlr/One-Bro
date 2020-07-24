@@ -36,23 +36,23 @@ AvatarMask:
   - m_Path: MechBaseArma/RootBone/LowerCore 1/UpperCore 1
     m_Weight: 0
   - m_Path: MechBaseArma/RootBone/LowerCore 1/UpperCore 1/Head 1
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: MechBaseArma/RootBone/LowerCore 1/UpperCore 1/SHoulderWeaponMount.L
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: MechBaseArma/RootBone/LowerCore 1/UpperCore 1/SHoulderWeaponMount.R
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: MechBaseArma/RootBone/LowerCore 1/UpperCore 1/UpperArm.L
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: MechBaseArma/RootBone/LowerCore 1/UpperCore 1/UpperArm.L/LowerArm.L
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: MechBaseArma/RootBone/LowerCore 1/UpperCore 1/UpperArm.L/LowerArm.L/HandWeaponMount.L
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: MechBaseArma/RootBone/LowerCore 1/UpperCore 1/UpperArm.R
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: MechBaseArma/RootBone/LowerCore 1/UpperCore 1/UpperArm.R/LowerArm.R
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: MechBaseArma/RootBone/LowerCore 1/UpperCore 1/UpperArm.R/LowerArm.R/HandWeaponMount.R
-    m_Weight: 1
+    m_Weight: 0
   - m_Path: MechBaseArma/RootBone/Thigh.L
     m_Weight: 1
   - m_Path: MechBaseArma/RootBone/Thigh.L/UpperLeg.L

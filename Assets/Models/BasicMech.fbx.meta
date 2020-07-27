@@ -15,6 +15,12 @@ ModelImporter:
   - first:
       74: 507641746736186737
     second: MechArmature|RunMech
+  - first:
+      74: 3186848599137002270
+    second: MechArmature|IdleMechPlayer
+  - first:
+      74: 6909218726531429015
+    second: MechArmature|RunMechPlayer
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -49,8 +55,8 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: MechArmature|IdleMech
-      takeName: MechArmature|IdleMech
+      name: MechArmature|IdleMechPlayer
+      takeName: MechArmature|IdleMechPlayer
       internalID: 0
       firstFrame: 0
       lastFrame: 24
@@ -78,11 +84,11 @@ ModelImporter:
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
     - serializedVersion: 16
-      name: MechArmature|RunMech
-      takeName: MechArmature|RunMech
+      name: MechArmature|RunMechPlayer
+      takeName: MechArmature|RunMechPlayer
       internalID: 0
       firstFrame: 0
-      lastFrame: 22
+      lastFrame: 14
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
